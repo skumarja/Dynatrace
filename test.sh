@@ -8,3 +8,4 @@ if [[ -z "$name" || -z "$age" ]]; then
     exit 1
 fi
 echo "${1} is ${2} old from India" >output.txt
+#Thank you
